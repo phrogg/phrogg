@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm Phil, I currently work on SSI [@esatus](https://github.com/esatus). I like to code and love to learn about IT-Security related topics. 
+
+I'm always happy to receive PRs.
+
+
 <!--
 **phrogg/phrogg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
