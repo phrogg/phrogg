@@ -4,6 +4,8 @@ I'm Phil, I currently work on SSI [@esatus](https://github.com/esatus). I like t
 
 I'm always happy to receive PRs.
 
+Also I'm sometimes using BOINC:
+<img src="https://boincstats.com/signature/-1/user/2760869/sig.png" alt="Boincstats" />
 
 <!--
 **phrogg/phrogg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
