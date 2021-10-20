@@ -8,6 +8,9 @@ Also I'm sometimes using BOINC:<br>
 <img src="https://boincstats.com/signature/-1/user/2760869/sig.png" alt="Boincstats" />
 
 <!--
+
+Coding conventions I attendet CCC 2019, DWX 2021, Codemotion Spain 2021
+
 **phrogg/phrogg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
