@@ -7,7 +7,7 @@ I'm always happy to receive PRs.
 Also I'm sometimes using BOINC:<br>
 <img src="https://boincstats.com/signature/-1/user/2760869/sig.png" alt="Boincstats" />
 
-<img src="https://count.getloli.com/get/@luigithehunter?theme=gelbooru" alt="Weeb Counter" />
+<img src="https://count.getloli.com/get/@luigithehunter?theme=moebooru" alt="Weeb Counter" />
 
 <!--
 
