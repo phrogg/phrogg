@@ -2,7 +2,7 @@
 
 I'm Phil, I currently work on SSI [@esatus](https://github.com/esatus). I like to code and love to learn about IT-Security related topics. 
 
-I'm always happy to receive PRs.
+I'm always happy to receive PRs. You can donate to me via github directly or with other methods described [here](https://phrogg.de).
 
 <br>
 <img src="https://boincstats.com/signature/-1/user/2760869/sig.png" alt="Boincstats" />
