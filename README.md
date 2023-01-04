@@ -1,8 +1,12 @@
 ### Hi there 👋
 
-I'm Phil, I currently work on SSI [@esatus](https://github.com/esatus). I like to code and love to learn about IT-Security related topics. 
+I'm Phil, I currently work on SSI <a href="https://github.com/esatus" target="_BLANK">@esatus</a>. I like to code and love to learn about IT-Security related topics. 
 
-I'm always happy to receive PRs. You can donate to me via github directly or with other methods described [here](https://phrogg.de).
+I'm always happy to receive PRs. You can donate to me via github directly or with other methods described <a href="https://phrogg.de" target="_BLANK">here</a>.
+
+Other gits:
+- <a href="https://codeberg.org/phrogg/" target="_BLANK">Codeberg</a>
+- <a href="https://gitlab.com/phrogg/" target="_BLANK">GitLab</a>
 
 <br>
 <img src="https://boincstats.com/signature/-1/user/2760869/sig.png" alt="Boincstats" />
