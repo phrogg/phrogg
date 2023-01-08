@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-I'm Phil, I currently work on SSI <a href="https://github.com/esatus" target="_BLANK">@esatus</a>. I like to code and love to learn about IT-Security related topics. 
+I'm Phil, I currently work on SSI <a href="https://github.com/esatus" target="_BLANK">@esatus</a>. I like to code and love to learn about IT-Security related topics.
 
-I'm always happy to receive PRs. You can donate to me via github directly or with other methods described <a href="https://phrogg.de" target="_BLANK">here</a>.
-
-Support me
+Support me:
 - https://ko-fi.com/phrogg
 - https://github.com/sponsors/phrogg
 - https://www.paypal.com/paypalme/proggenbuck
