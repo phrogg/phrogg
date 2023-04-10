@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Phil, I currently work on SSI <a href="https://github.com/esatus" target="_BLANK">@esatus</a>. I like to code and love to learn about IT-Security related topics.
+I'm Phil, I currently work on SSI, data protection and compliance <a href="https://github.com/esatus" target="_BLANK">@esatus</a>. I like to code and love to learn about IT-Security related topics.
 
 Support me:
 - https://ko-fi.com/phrogg
